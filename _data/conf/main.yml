@@ -46,16 +46,16 @@ language_switch_hover_effect: "hover-effect"
 language_switch_top_nav: false
 
 # replace text with owner[language].brand
-brand_replace: "$site_brand"
+brand_replace: "owner[en]_brand"
 
 # replace text with data.lang[language].constants.greeting
-greetings_replace: "$site_greetings"
+greetings_replace: "owner[en]_greetings"
 
 # replace text with data.lang[language].constants.welcome
-welcome_replace: "$site_welcome"
+welcome_replace: "data.lang[en].constants.welcome"
 
 # replace text with data.lang[language].constants.sample
-sample_replace: "$site_sample"
+# sample_replace: "data.lang[en].constants.sample"
 
 ###########################################################
 #                Search
