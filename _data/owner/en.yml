@@ -2,24 +2,24 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Your Brand"
+brand: "Tyler Truong"
 
 # text below the brand name
-brand_sub_text: "$site_sample"
+brand_sub_text: ""
 
 # used for seo meta post author (if it's not defined in post)
-name: "Your Name"
+name: "Tyler Truong"
 
 # home page top header texts
 home:
   # you can also use $site_brand, $site_greetings, $site_welcome in line1 and line2 for replacing texts.
-  top_header_line1: "$site_welcome"
+  #top_header_line1: "$site_welcome"
   # if commented, top header will be a single line
-  top_header_line2: "$site_brand"
+  #top_header_line2: "$site_brand"
 
 # about page sub title
 about:
-  sub_title: "$site_sample"
+  sub_title: "A basic blog to record my coding adventure."
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
@@ -48,11 +48,11 @@ meta_common_description: "Your meta description."
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  #- github: ""
-  #- email: ""
+  - github: "maplegooose"
+  - email: "ttruong20051126@gmail.com"
   #- linkedin: ""
   #- twitter: ""
-  #- instagram: ""
+  - instagram: "maplethegooose"
   #- youtube: ""
   #- facebook: ""
 # to add more, check the _data/const/contact.yml file
