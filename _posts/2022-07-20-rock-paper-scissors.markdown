@@ -4,7 +4,8 @@ Author: "Tyler Truong"
 Category: "Coding"
 Tags: [coding, html, css, websites, games, githubpages]
 comments_disable: true
-date: 2022-07-20 3:22
+date: 2022-07-20 15:22
+meta_modify_date: 2022-07-21 22:28
 ---
 
 ## 7/20/2022
@@ -20,3 +21,5 @@ Today, I finished the online course from [CodeAcademy](https://www.codecademy.co
 ```
 
 Somehow...? It all worked. Honestly, I have no idea why it worked. I have two ideas. The first idea could be because I had the formatting wrong and forgot to include `type="text/css"`, or it couldve been the fact I forgot the `/` at the very end. I have no idea, but I'm over it now. All that matters to me is that I finally SOLVED IT. Anyways, now I can actually make some progress in creating a new website to play Rock Paper Scissors against an "AI." I hate coding.
+
+After I finished the painful task of figuring out my small mistake, I went straight to work focusing on just building a simple interface for my small web game. I had difficulty alligning the buttons on the same row, so I had to search it up and figured out that I needed to configure the layout of my buttons to be in a [grid](https://www.youtube.com/watch?v=9zBsdzdE4sM). I feel pretty good about this whole thing now that I'm over that stupid mistake.
